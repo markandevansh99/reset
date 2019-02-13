@@ -1,1 +1,2 @@
-hello everyone!!.How are you all?
+hello everyone!!
+Now unstaged file.I am fine.
