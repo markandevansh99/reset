@@ -1,0 +1,1 @@
+Now,writing a new file and checking all the git reset commands
